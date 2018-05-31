@@ -82,7 +82,7 @@ External links
 ==============
 
 * `Online documentation <https://happybase.readthedocs.io/>`_ (Read the Docs)
-* `Downloads <http://pypi.python.org/pypi/happybase/>`_ (PyPI)
+* `Downloads <https://pypi.org/project/happybase/>`_ (PyPI)
 * `Source code <https://github.com/wbolster/happybase>`_ (Github)
 
 
